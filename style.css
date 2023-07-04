@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    height: 90px;
+    width: 160px;
+}
+.nav-section-1{
+    background: orange;
+    height: 40px;
+    width: 140px;
+    border-radius: 35px;
+    position: absolute;
+    top: 37px;
+    right: 115px;
+}
+.section{
+    margin-left: 11px;
+    line-height: 2;
+    text-decoration: none!important;
+    cursor: pointer;
+    color: white!important;
+}
+.start{
+    border-bottom: 2px solid orange;
+}
+
+.fa-phone{
+    margin-left: 7px;
+}
+.blog-1{
+    background: green;
+    color: white;
+    display: block;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    position: absolute;
+    top: 43px;
+    right: 420px;
+}
+.para-1{
+    position: absolute;
+    top: 43px;
+    right: 295px;
+}
+.nav-item{
+    margin-left: 25px; 
+    position: relative;
+    top: -42px;
+    left: -150px;
+    font-weight: 700;
+}
+.nav-link{
+    color: black!important;
+}
+.navbar-nav{
+    position: absolute;
+    right: 340px;
+}
+.navbar-brand{
+    margin-left: 190px;  
+    position: absolute;
+    top: -55px;
+    color: black!important;
+    font-weight: 700;
+
+}
+.nav-item:hover{
+    background: green;
+    color: white!important;
+    border-radius: 20px;
+}
+.:hover{
+    background: green;
+    color: white!important;
+    border-radius: 20px;
+}
+.blog-2{
+    color: green;
+}
+.blog-3{
+    color: orange;
+}
+.blog-4{
+    color: green;
+}
+.blog-5{
+    margin-left: 27px;
+    line-height: 2;
+    text-decoration: none!important;
+    color: white!important;
+
+}
+.set{
+    background: orange;
+    height: 40px;
+    width: 95px;
+    border-radius: 24px;
+}
+.para-3{
+    font-size: 20px;
+    letter-spacing: 1.1px;
+}
+.para-2{
+    font-size: 45px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.head-1{
+    font-size: 35px;
+}
+.pic-cont{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.para-4{
+    position: absolute;
+    top: 46%;
+    left: 85px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+.para-5{
+    position: absolute;
+    top: 58%;
+    left: 85px;
+}
+.pic-2{
+    margin-left: 25px;
+    margin-top: 210px;
+}
+.head-2{
+    font-size: 30px;
+    font-weight: 400;
+}
+.pic-cont-1{
+    position: relative;
+    top: 145px;
+    left: 25px;
+}
+.para-6{
+    position: absolute;
+    top: 40%;
+    left: 85px;
+}
+.head-3{
+    position: absolute;
+    top: 26%;
+    font-weight: 700;
+    left: 85px;
+}
+.pic-3{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.pic-4{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.head-4{
+    position: absolute;
+    top: 23%;
+    left: 100px;
+    font-weight: 700; 
+}
+.para-7{
+    position: absolute;
+    top: 35%;
+    left: 100px;
+}
+.pic-5{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.head-5{
+    position: absolute;
+    top: 27%;
+    left: 100px;
+    font-weight: 700;
+}
+.para-8{
+    position: absolute;
+    top: 40%;
+    left: 100px;
+}
+.pic-cont-2{
+    margin-top: 180px;
+    margin-left: 73px;
+}
+.blog-6{
+    position: absolute;
+    right: 115px;
+    top: 182px;
+    background: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    border: 1px solid green;  
+    color: green;
+    margin-right: 15px;
+}
+.blog-7{
+    position: absolute;
+    right: 75px;
+    top: 182px;
+    background: green;
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    color: white;
+
+}
+.fa-less-than{
+    margin-top: 10px;
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.fa-greater-than{
+    margin-top: 10px;
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.pic-6{
+    margin-left: 14px;
+    margin-top: 20px;
+}
+.pic-7{
+    margin-left: 44px;
+    margin-top: 20px;
+}
+.end{
+    height: 130px;
+    margin-top: 80px;
+    margin-left: 45%;
+}
+.para-9{
+    margin-top: 40px;
+    margin-left: 150px;
+    letter-spacing: 1.5px;
+}
+.para-10{
+    margin-top: 20px;
+    margin-left: 270px;
+    letter-spacing: 1.5px;
+}
+.navbar-brand-1{
+    margin-left: 365px;
+}
+.nav-item-1{
+    margin-left: 25px;
+}
